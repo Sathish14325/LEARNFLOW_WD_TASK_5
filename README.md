@@ -1,5 +1,5 @@
-# LEARNFLOW_WD_TASK_2
-Learnflow services internship Task 2 Weather app
+# LEARNFLOW_WD_TASK_5
+Learnflow services internship Task 2 Music Steaming website
 
 # Music Streaming Website
 
@@ -21,10 +21,10 @@ The Music Streaming Website is a web application that allows users to listen to 
 - JavaScript
 
 ## Screenshots
-![stylezone](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/fa306bb4-fa2a-4627-8f2b-ab6afcae176e)
-![stylezone1](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/ece2af8d-555d-453d-90b3-a412fe9f06d4)
-![Style2](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/1f38d8a9-236a-4e1d-b26b-9d7a50bf9117)
-![login style](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/5978851c-f2f8-4e2a-b01e-f6f700ac0bcd)
 
-
+![vlcsnap-2024-03-03-19h12m06s100](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/4e5ffc7e-cf28-4832-8681-1a24d958d6e5)
+![vlcsnap-2024-03-03-19h12m11s150](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/d63ca065-cd1c-4b64-aa3f-828c974e4220)
+![vlcsnap-2024-03-03-19h12m16s915](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/ea7c1d7d-58e7-45fd-9f62-da9c7371b441)
+![vlcsnap-2024-03-03-19h12m20s153](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/feb5731c-f42f-4e27-8d28-6c408074f7f3)
+![vlcsnap-2024-03-03-19h12m26s634](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/613e7f99-0849-435c-b872-03b1e1499001)
 
