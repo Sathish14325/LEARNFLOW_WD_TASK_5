@@ -1,34 +1,30 @@
 # LEARNFLOW_WD_TASK_2
 Learnflow services internship Task 2 Weather app
 
-# Weather Application
+# Music Streaming Website
 
-A simple weather application that allows users to check the current weather conditions of a location.
+## Description
 
-## Screenshot
-
-![Screenshot]()
+The Music Streaming Website is a web application that allows users to listen to their favorite music online. It provides a seamless experience for discovering, streaming, and organizing music tracks. The website is built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- **Current Weather:** Display the current weather conditions (temperature, description, humidity, etc.) of a specified location.
-- **Search:** Allow users to search for weather information by city name or ZIP code.
-- **Responsive Design:** Ensure the application is accessible and usable across various devices and screen sizes.
-- **Error Handling:** Handle errors gracefully, displaying appropriate messages when weather data is unavailable or when an error occurs.
-- **User-friendly Interface:** Design a clean and intuitive user interface for a seamless user experience.
+- Browse and search for music tracks
+- Play, pause, skip, and control playback
+- Create playlists and manage playlists
+- Responsive design for optimal viewing on various devices
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- [Weather API](https://your-weather-api-url.com): Used to fetch weather data based on user input.
 
-## Usage
+## Screenshots
+![stylezone](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/fa306bb4-fa2a-4627-8f2b-ab6afcae176e)
+![stylezone1](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/ece2af8d-555d-453d-90b3-a412fe9f06d4)
+![Style2](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/1f38d8a9-236a-4e1d-b26b-9d7a50bf9117)
+![login style](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_5/assets/140421254/5978851c-f2f8-4e2a-b01e-f6f700ac0bcd)
 
-To run the application locally, follow these steps:
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
